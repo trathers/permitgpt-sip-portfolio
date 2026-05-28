@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projects | Timkia Rathers</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+<header class="site-header">
+  <nav class="navbar">
+    <div class="logo">Projects</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="sip.html">SIP</a></li>
+      <li><a href="innovation.html">Innovation Claim</a></li>
+      <li><a href="boards.html">Boards</a></li>
+      <li><a href="projects.html" class="active">Projects</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="page-header">
+  <h1>Projects</h1>
+  <p>Academic, professional, and innovation-based work.</p>
+</section>
+
+<main class="section">
+
+<div class="card-grid">
+
+  <div class="card">
+    <h3>PermitGPT</h3>
+    <p>
+      AI-powered permit readiness assistant that helps users understand permit requirements,
+      missing documents, and approval risks.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Business Technology Projects</h3>
+    <p>
+      Projects focused on operations, digital transformation, product planning,
+      process improvement, and technology strategy.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>AI Coursework</h3>
+    <p>
+      Academic projects involving artificial intelligence, natural language processing,
+      machine learning, data analysis, and prototype development.
+    </p>
+  </div>
+
+</div>
+
+<h2>Future Project Additions</h2>
+<ul>
+  <li>PermitGPT GitHub code repository</li>
+  <li>Prototype screenshots</li>
+  <li>Dashboard mockups</li>
+  <li>Process diagrams</li>
+  <li>SIP Brief</li>
+  <li>Boards artifacts</li>
+</ul>
+
+</main>
+
+<footer>
+  <p>© 2026 Timkia Rathers | Project Portfolio</p>
+</footer>
+
+</body>
+</html>
