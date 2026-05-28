@@ -246,4 +246,116 @@ footer {
   .hero {
     min-height: 75vh;
   }
+.page-home {
+  background: #F8FAFC;
+}
+
+.split-hero {
+  min-height: 80vh;
+  padding: 80px 8%;
+  background:
+    linear-gradient(135deg, rgba(11, 31, 58, 0.96), rgba(37, 99, 235, 0.86)),
+    url("https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1600&q=80");
+  background-size: cover;
+  background-position: center;
+  display: grid;
+  grid-template-columns: 1.3fr 0.7fr;
+  gap: 40px;
+  align-items: center;
+  color: white;
+}
+
+.hero-text h1 {
+  font-size: clamp(2.5rem, 6vw, 4.8rem);
+  line-height: 1.05;
+  margin-bottom: 24px;
+}
+
+.hero-text p {
+  font-size: 1.15rem;
+  max-width: 720px;
+}
+
+.hero-card {
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(10px);
+  padding: 35px;
+  border-radius: 24px;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.25);
+}
+
+.hero-card h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.status-pill {
+  margin-top: 25px;
+  display: inline-block;
+  background: #22C55E;
+  color: #0B1F3A;
+  padding: 10px 16px;
+  border-radius: 999px;
+  font-weight: bold;
+}
+
+.intro-section {
+  padding: 70px 8%;
+  background: white;
+}
+
+.intro-content {
+  max-width: 950px;
+  margin: auto;
+}
+
+.intro-content h2 {
+  color: #0B1F3A;
+  font-size: 2.3rem;
+  margin-bottom: 20px;
+}
+
+.preview-grid {
+  padding: 70px 8%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
+}
+
+.preview-card {
+  background: white;
+  padding: 28px;
+  border-radius: 20px;
+  text-decoration: none;
+  color: #111827;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+  border-top: 5px solid #2563EB;
+  transition: 0.3s ease;
+}
+
+.preview-card:hover {
+  transform: translateY(-6px);
+  border-top-color: #22C55E;
+}
+
+.preview-card h3 {
+  color: #0B1F3A;
+  margin-bottom: 12px;
+}
+
+.nav-links a.active {
+  color: #F59E0B;
+}
+
+footer a {
+  color: #F59E0B;
+  text-decoration: none;
+}
+
+@media (max-width: 900px) {
+  .split-hero,
+  .preview-grid {
+    grid-template-columns: 1fr;
+  }
 }
