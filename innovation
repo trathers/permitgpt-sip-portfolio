@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Innovation Claim | PermitGPT</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+<header class="site-header">
+  <nav class="navbar">
+    <div class="logo">PermitGPT</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="sip.html">SIP</a></li>
+      <li><a href="innovation.html" class="active">Innovation Claim</a></li>
+      <li><a href="boards.html">Boards</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="page-header">
+  <h1>Innovation Claim</h1>
+  <p>What makes PermitGPT innovative and useful?</p>
+</section>
+
+<main class="section">
+
+<div class="highlight-box">
+  PermitGPT makes permitting faster, easier, and more understandable by converting
+  complex municipal requirements into a guided AI checklist and readiness score.
+</div>
+
+<h2>Innovative MVP</h2>
+<p>
+  PermitGPT is an AI-powered permit readiness assistant that predicts application
+  completeness and approval risks before submission, reducing delays, resubmissions,
+  and permitting confusion for homeowners and contractors.
+</p>
+
+<h2>How PermitGPT Differs</h2>
+<p>
+  Existing permitting platforms often focus on application management after a user
+  already knows what to submit. PermitGPT focuses on helping users before submission
+  by identifying missing documents, explaining requirements, and giving users a clearer
+  path toward approval.
+</p>
+
+<h2>Why This Matters</h2>
+<p>
+  Faster and clearer permitting can reduce project delays, lower costs, improve housing
+  development timelines, and make government processes easier for everyday users to understand.
+</p>
+
+</main>
+
+<footer>
+  <p>© 2026 Timkia Rathers | PermitGPT SIP Portfolio</p>
+</footer>
+
+</body>
+</html>
