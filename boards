@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Boards Objectives | Timkia Rathers</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+<header class="site-header">
+  <nav class="navbar">
+    <div class="logo">Boards Portfolio</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="sip.html">SIP</a></li>
+      <li><a href="innovation.html">Innovation Claim</a></li>
+      <li><a href="boards.html" class="active">Boards</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="page-header">
+  <h1>Boards Objectives</h1>
+  <p>University of Advancing Technology major objectives.</p>
+</section>
+
+<main class="section">
+
+<h2>Artificial Intelligence Degree Objectives</h2>
+<ol>
+  <li>Create and integrate cognitive artificial intelligence into applications.</li>
+  <li>Create and evolve natural language processing systems.</li>
+  <li>Demonstrate proficiency in designing and developing machine learning systems using industry approaches and patterns.</li>
+  <li>Design and employ deep learning systems using best practices and conventions.</li>
+  <li>Demonstrate a deep understanding of neural networks and their role in creating intelligent systems.</li>
+  <li>Design, create, or integrate reinforcement learning, large language models, and genetic algorithms in intelligent software.</li>
+</ol>
+
+<h2>Business Technology Degree Objectives</h2>
+<ol>
+  <li>Demonstrate the ability to create and document technology strategies and product development plans.</li>
+  <li>Demonstrate the ability to assemble the resources and infrastructure needed to successfully take technologies to market.</li>
+  <li>Demonstrate the capacity to apply lean and Agile approaches in the development of an organizational mission, strategy and technology product.</li>
+  <li>Demonstrate baseline knowledge of business operational elements including finance, legal, operations, resources, marketing, market analysis, manufacturing, and supply infrastructure.</li>
+  <li>Demonstrate competency in leading technology teams.</li>
+  <li>Generate and visualize data for decision-making analytics that measure and communicate organizational performance.</li>
+</ol>
+
+<h2>How PermitGPT Connects to My Objectives</h2>
+<p>
+  PermitGPT connects artificial intelligence and business technology by combining AI,
+  natural language processing, machine learning concepts, product planning, Agile development,
+  market analysis, and data-driven decision-making into one innovation project.
+</p>
+
+</main>
+
+<footer>
+  <p>© 2026 Timkia Rathers | Boards Portfolio</p>
+</footer>
+
+</body>
+</html>
