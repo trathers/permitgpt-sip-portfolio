@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact | Timkia Rathers</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+<header class="site-header">
+  <nav class="navbar">
+    <div class="logo">Contact</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="sip.html">SIP</a></li>
+      <li><a href="innovation.html">Innovation Claim</a></li>
+      <li><a href="boards.html">Boards</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="contact.html" class="active">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="page-header">
+  <h1>Contact Me</h1>
+  <p>Connect with me for academic, professional, or innovation opportunities.</p>
+</section>
+
+<main class="section">
+
+<h2>Contact Information</h2>
+
+<p>
+  <strong>Email:</strong>
+  <a href="mailto:trather94950@uat.edu">trather94950@uat.edu</a>
+</p>
+
+<p>
+  <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/timkia-rathers-a02b367a/" target="_blank">
+    linkedin.com/in/timkia-rathers-a02b367a
+  </a>
+</p>
+
+<p>
+  <strong>GitHub Website:</strong>
+  <a href="https://trathers.github.io/permitgpt-sip-portfolio/" target="_blank">
+    trathers.github.io/permitgpt-sip-portfolio
+  </a>
+</p>
+
+<h2>Inquiry Form Placeholder</h2>
+<p>
+  A contact form may be added later using a form service such as Google Forms.
+  Formspree, or another free website form tool.
+</p>
+
+</main>
+
+<footer>
+  <p>© 2026 Timkia Rathers | Contact</p>
+</footer>
+
+</body>
+</html>
